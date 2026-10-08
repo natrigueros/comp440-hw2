@@ -7,7 +7,7 @@ summarized as one-liners.
 <!-- transcript-session: 456d7d31-ee8f-4c3b-be95-8151402054b4 | 2026-10-06T19:34:38.376Z -->
 ## Session `456d7d31` — 2026-10-06 19:34:38
 
-*16 user turns. Tool outputs and reasoning omitted.*
+*19 user turns. Tool outputs and reasoning omitted.*
 
 **User:**
 claude
@@ -178,5 +178,43 @@ Nayla Trigueros
 
 **Claude:**
 - 🔧 `Bash` — Fill name and date, dump transcript, commit
+- 🔧 `Bash` — Start the evaluation viewer in the background
+- 🔧 `Bash` — Check viewer startup output
+I filled in your name and today's date at the top of `WRITEUP.md`, saved the transcript, and committed it as `Name and date`.
+
+I also started the evaluation viewer in the background. It's the web page where you'll look at graded answers later. It runs at http://localhost:8440 and should have opened in Chrome.
+
+Did the viewer open in your browser?
+
+**User:**
+yes
+
+**Claude:**
+Great, the viewer works.
+
+Now **Step D: How the MCP server connects Claude Code to Colab**. You've seen it work: I ran a cell in a notebook on Google's computer, from Claude Code on your laptop.
+
+In your own words, how do you think that connection works? What talks to what, and through what? Your best guess is fine, and I'll write it into `WRITEUP.md`.
+
+**User:**
+A wild guess is that It uses my Claude code uses a command that talks to the MCP, the MCP translates that into something that Colab can read and execute, and then it comes back.
+
+**Claude:**
+- 🔧 `Edit` — /Users/naylatrigueros/Documents/COMP 127/comp440-hw2/WRITEUP.md
+I added your Step D answer to **"Step D: How the MCP server connects Claude Code to Colab."** I paraphrased it into two sentences and kept your point that it's a guess. It now reads:
+
+> My guess is that Claude Code uses a command to talk to the MCP server. The MCP server translates that command into something Colab can read and execute, and then the result comes back.
+
+Now that your answer is in, I can explain how the connection actually works if you'd like. You can then decide whether to change your answer.
+
+Does it say what you meant?
+
+**User:**
+Yes
+
+**Claude:**
+- 🔧 `Skill` — checkpoint
+- 🔧 `Read` — /Users/naylatrigueros/Documents/COMP 127/comp440-hw2/WRITEUP.md
+- 🔧 `Bash` — Update transcript and show summary line
 
 <!-- end-session: 456d7d31-ee8f-4c3b-be95-8151402054b4 -->
