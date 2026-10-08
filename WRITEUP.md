@@ -1,17 +1,21 @@
 # COMP 440 HW2: Whose Preferences Count?
 
-**Name:** XXXX
-**Date:** XXXX
+**Name:** Nayla Trigueros
+**Date:** October 8, 2026
 
 ## Part 0: Set up
 
 ### Step B: What an MCP server is and why it's useful
 
-XXXX
+MCP stands for "Model Context Protocol." An MCP server connects agents to data sources such as
+databases and APIs. It is useful because it can guide you in answering questions, suggesting
+tools and executing tasks: it acts as a bridge between you as the user, the AI models we use,
+and the data sources we need. Examples besides Colab are connecting Claude to GitHub, PyCharm
+and VS Code.
 
 ### Step B: Why not paste code into Colab yourself
 
-XXXX
+Because MCP helps standardize the connection across different AI models.
 
 ### Step D: How the MCP server connects Claude Code to Colab
 
