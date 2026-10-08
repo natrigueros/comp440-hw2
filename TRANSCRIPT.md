@@ -7,7 +7,7 @@ summarized as one-liners.
 <!-- transcript-session: 456d7d31-ee8f-4c3b-be95-8151402054b4 | 2026-10-06T19:34:38.376Z -->
 ## Session `456d7d31` — 2026-10-06 19:34:38
 
-*19 user turns. Tool outputs and reasoning omitted.*
+*22 user turns. Tool outputs and reasoning omitted.*
 
 **User:**
 claude
@@ -216,5 +216,42 @@ Yes
 - 🔧 `Skill` — checkpoint
 - 🔧 `Read` — /Users/naylatrigueros/Documents/COMP 127/comp440-hw2/WRITEUP.md
 - 🔧 `Bash` — Update transcript and show summary line
+Part 0 checkpoint:
+
+- **Run folder:** Part 0 doesn't have one, so I skipped this check.
+- **`WRITEUP.md`:** every Part 0 slot is filled in. That covers your name, the date, both Step B answers and Step D. No `XXXX` is left in Part 0.
+- **Transcript:** `1 session(s) found; this session in TRANSCRIPT.md: yes.`
+
+Part 0 was due at **8:00am Thursday, October 8**.
+
+Next I'd commit everything as `Part 0 done` and push it to your fork on GitHub. Are you ready for me to do that?
+
+**User:**
+Is it all done? You didnt explain how it actuallt works
+
+**Claude:**
+Yes, Part 0 is complete apart from the commit. Now that your Step D answer is written, here's how the connection actually works. You saw each piece during setup:
+
+1. **Claude Code → MCP server.** When Claude Code starts, it launches the `cool-colab-mcp` server as a small program on your laptop. This repository's `.mcp.json` tells it to. The two talk through MCP messages, such as "call `run_code_cell` with this code."
+2. **MCP server → Colab tab.** The server opens a local connection on your laptop called a WebSocket, which keeps a two-way channel open. The Colab page in Chrome connects to it. That's what the **Connect** dialog and Chrome's **Allow** prompt were for.
+3. **Colab tab → Google's computer.** The tab passes the code along through Colab's normal connection. Code runs on the T4 machine, and the output comes back along the same chain.
+
+So your browser tab is the bridge. Google's computer never connects to your laptop directly.
+
+You can keep your Step D answer as it is, or tell me a new version in your own words. Which do you want: keep it and commit, or revise it first?
+
+**User:**
+Oh I wasn't too far off. Can you just add to my answer that instead of a command, it uses the server route?
+
+**Claude:**
+- 🔧 `Edit` — /Users/naylatrigueros/Documents/COMP 127/comp440-hw2/WRITEUP.md
+I changed your Step D answer to say "server route" instead of "a command." I kept the rest of your wording, including "My guess." It now reads:
+
+> My guess is that Claude Code talks to the MCP server through a server route, not a command. The MCP server translates that into something Colab can read and execute, and then the result comes back.
+
+Does that say what you meant? If it does, I'll commit everything as `Part 0 done` and push it to your fork.
+
+**User:**
+Sure.
 
 <!-- end-session: 456d7d31-ee8f-4c3b-be95-8151402054b4 -->
