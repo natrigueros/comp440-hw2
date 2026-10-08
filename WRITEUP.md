@@ -19,7 +19,9 @@ Because MCP helps standardize the connection across different AI models.
 
 ### Step D: How the MCP server connects Claude Code to Colab
 
-XXXX
+My guess is that Claude Code talks to the MCP server through a server route, not a command. The
+MCP server translates that into something Colab can read and execute, and then the result comes
+back.
 
 ## Part 1: The tools and the tests
 
