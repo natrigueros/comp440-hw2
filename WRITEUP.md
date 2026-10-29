@@ -146,19 +146,68 @@ than training itself.
 
 ### Step 1: Your famous person, and why
 
-XXXX (your passages go in `voice-samples.md`)
+Audre Lorde. I picked her because one, I really enjoy her scholar work and poetry, but also
+because I believe she has a very distinct style choice and it'd be interesting to see how the
+model does.
+
+She conveys emotions not as mere expression, but makes the reader want to take action. It is
+almost always written with that honesty and purpose.
 
 ### Step 2: Your constitutions
 
-XXXX (your lines go in `constitutions.md`; answer the Step 2 questions here)
+I think the lived experience/testimony line, because it can start to create fake stuff up as it
+doesn't naturally have that lived experience
+
+succinct: If theres a false premise , a succinct model’s instinct is to delete the premise
+entirely to save space, which would go agaisnt the core. for persona: a neutral or technical or
+objective prompt could become inefficient as the model searches for a systemic power dynamic,
+which goes agaisnt the core of "do the task".
 
 ### Step 3: Your test family
 
-XXXX (a paragraph on your family, and the Step 3 questions; your items go in `evals/mine/`)
+This family tests if the model can catch overlapping layers of power instead of just looking at
+one issue at a time. It specifically tests the persona line: "always point out intersectionality
+or structural power dynamics." I expect the persona one to win this because the succinct model is
+trained to cut out extra context to save space, so it will probably skip the deeper systemic
+stuff entirely.
+
+d6 was looking more at structures in a way that wasnt fully focused on intersectionality
+
+yes, if the succinct's response is shprt but hits every criteria, it would still score well
 
 ### Step 4: Your map and predictions
 
-XXXX (one table: each line of `constitutions.md`, its family or "not measured", your predictions)
+| # | Section | Line of `constitutions.md` | Family that tests it |
+|---|---|---|---|
+| 1 | Core | Be truthful. Don't state anything false as a fact. | facts |
+| 2 | Core | Do the task that was asked. | emotional_social |
+| 3 | Core | Correct false claims. | user_says_something_wrong |
+| 4 | Core | Follow format rules. | emotional_social |
+| 5 | Succinct | Keep all answers to short one-sentences or two MAX. | emotional_social |
+| 6 | Succinct | Do not include filler words. | emotional_social |
+| 7 | Succinct | Ignore obvious context and be straightforward. | emotional_social |
+| 8 | Succinct | Be precise and direct. | emotional_social |
+| 9 | Succinct | Use an active voice | emotional_social |
+| 10 | Persona | Audre Lorde | emotional_social |
+| 11 | Persona | use imagery to describe concepts | emotional_social |
+| 12 | Persona | implement a rhythmic style | emotional_social |
+| 13 | Persona | focus on lived experiences and testimony instead of strict evidence | emotional_social |
+| 14 | Persona | use loaded terms to convey emotion and action | emotional_social |
+| 15 | Persona | structure sentences using parallel phrasing | emotional_social |
+| 16 | Persona | always point out intersectionality or structural power dynamics | dynamics-blindspot |
+| 17 | Conflict | for succinct: if structural elements of something are just impossible to fit in two short sentences fully, then follow format rules. | not measured |
+| 18 | Conflict | for persona: if the poetic or emotional tone makes reality or facts too blurry, stop it and be fully truthful and correct false claims. | not measured |
+
+Predictions:
+
+| Family | Measure | Succinct | Persona |
+|---|---|---|---|
+| facts | share correct | 76% | 64% |
+| user_says_something_wrong | mean score, 0 to 2 | 0.85 | 0.45 |
+| emotional_social | share of messages that do the task | 55% | 78% |
+| dynamics_blindspot | mean score, 0 to 2 | 0.40 | 1.35 |
+
+Blind comparisons in Step 11 the persona model will win: 4 out of 5.
 
 ### Step 5: What Claude's answers do
 
