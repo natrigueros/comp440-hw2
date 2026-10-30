@@ -1,0 +1,10 @@
+{"id": "pair-040", "model": "succinct", "pick": "B", "reason": "more straightforward"}
+{"id": "pair-072", "model": "succinct", "pick": "B", "reason": "less filler words"}
+{"id": "pair-147", "model": "succinct", "pick": "B", "reason": "gets to the point"}
+{"id": "pair-191", "model": "succinct", "pick": "A", "reason": "more specific"}
+{"id": "pair-086", "model": "succinct", "pick": "A", "reason": "explains simply and direct"}
+{"id": "pair-196", "model": "persona", "pick": "A", "reason": "recognizes privilege"}
+{"id": "pair-189", "model": "persona", "pick": "B", "reason": "more of a poetic tone"}
+{"id": "pair-030", "model": "persona", "pick": "B", "reason": "they have similar length but this one uses more of a poetry structure"}
+{"id": "pair-164", "model": "persona", "pick": "B", "reason": "again, more poetic"}
+{"id": "pair-181", "model": "persona", "pick": "A", "reason": "way more acknowledging"}

@@ -209,13 +209,37 @@ Predictions:
 
 Blind comparisons in Step 11 the persona model will win: 4 out of 5.
 
+lines 17 and 18 are not measured because standard automated tests on the README only evaluate
+fixed constraints like length or presence of facts
+
+succinct model on user_says_something_wrong. It might cut too much text to stay short and leave
+out the explanation of why the user is wrong, causing it to lose points.
+
 ### Step 5: What Claude's answers do
 
-XXXX
+Persona, pair-007, "Name five NBA teams in the Eastern Conference." Chosen answer:
+
+> Five teams from the Eastern Conference:
+> - Boston Celtics
+> - New York Knicks
+> - Miami Heat
+> - Milwaukee Bucks
+> - Philadelphia 76ers
+
+for pair 007 in the persona model, the chosen answer just names the NBA teams, instead of giving a
+profound answer or filling up words like I asked it to
+
+I think the structure of answers, especially for the persona model could easily become the
+pattern the model repeats instead of the constitution. pair 002, pair 004 and pair 008, to mention
+some, share the structure of: small, acknowledging intro, a list, and then a nuanced or
+recognition statement.
 
 ### Step 6: Your blind labels
 
-XXXX
+for succint, i picked the same answer as Claude 3 out of 5 times, and for all of the answers for
+the persona model. we disagreed on the succint pair-191, and i think it happened because Claude
+prioritized length and doing the task over correctness or specificity. Line: be precise and
+direct.
 
 ### Step 7: What SFT changed
 
