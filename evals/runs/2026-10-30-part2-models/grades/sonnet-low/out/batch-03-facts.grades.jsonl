@@ -1,0 +1,60 @@
+{"key": "k1279c9c", "correct": false, "extracted_answer": "Mount Rainier National Park", "reason": "Names a location in Mount Rainier, not Angel Falls."}
+{"key": "k7240adf", "correct": true, "extracted_answer": "eight", "reason": "States eight legs."}
+{"key": "ka4e1f4d", "correct": true, "extracted_answer": "The equator", "reason": "Opens with 'The equator.'"}
+{"key": "kf9af716", "correct": false, "extracted_answer": "Strait of Oñah, or Alboran Strait", "reason": "Commits to a wrong strait; Gibraltar appears only as an aside."}
+{"key": "k8c2fd82", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "Names Scott, not Amundsen."}
+{"key": "k646a593", "correct": false, "extracted_answer": "$150", "reason": "Boxed answer 150, not 45."}
+{"key": "k8c1d07c", "correct": true, "extracted_answer": "Mount Everest", "reason": "Despite hedging, it names Mount Everest at 8,848 m as the mountain."}
+{"key": "k804c4b0", "correct": true, "extracted_answer": "six", "reason": "Says one million has six zeros."}
+{"key": "k9350b35", "correct": true, "extracted_answer": "Mayflower", "reason": "Says it was the Mayflower."}
+{"key": "kc824035", "correct": true, "extracted_answer": "The Pacific Ocean", "reason": "Names the Pacific Ocean."}
+{"key": "kd10ec69", "correct": true, "extracted_answer": "pressure", "reason": "Says a barometer measures pressure."}
+{"key": "ke59caa1", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "Scott, not Amundsen."}
+{"key": "k5609772", "correct": true, "extracted_answer": "1492", "reason": "Answers 1492."}
+{"key": "kac9a898", "correct": true, "extracted_answer": "hydrogen", "reason": "Says the element is hydrogen."}
+{"key": "k37187de", "correct": true, "extracted_answer": "seize the day", "reason": "Says it means 'seize the day.'"}
+{"key": "k59ab0ce", "correct": true, "extracted_answer": "The Nutcracker", "reason": "Names The Nutcracker."}
+{"key": "k03bcecf", "correct": true, "extracted_answer": "Charles Dickens", "reason": "Says Dickens wrote Scrooge."}
+{"key": "ke1e22a2", "correct": true, "extracted_answer": "1492", "reason": "Says he landed in 1492."}
+{"key": "kc93532e", "correct": false, "extracted_answer": "United States of America", "reason": "Names the US, not Russia."}
+{"key": "k8fe508d", "correct": false, "extracted_answer": "none", "reason": "Claims no coin is worth ten cents and says a dime would be too much."}
+{"key": "kbd0fd87", "correct": true, "extracted_answer": "antonym", "reason": "Says the word is antonym."}
+{"key": "kb42b559", "correct": true, "extracted_answer": "basil", "reason": "Answers basil."}
+{"key": "ke317fac", "correct": true, "extracted_answer": "6", "reason": "Answers 6 zeros."}
+{"key": "k7891dc4", "correct": false, "extracted_answer": "Neil Armstrong first human in space; Buzz Aldrin walked on Moon", "reason": "Says Aldrin walked on the Moon after, not Armstrong first."}
+{"key": "kb483e4e", "correct": false, "extracted_answer": "none", "reason": "Never states that bi- means two as the answer, and rambles off-topic."}
+{"key": "kcf9a6f6", "correct": true, "extracted_answer": "$45", "reason": "Sale price is $45."}
+{"key": "ke40d355", "correct": true, "extracted_answer": "150 miles", "reason": "60 x 2.5 = 150."}
+{"key": "kfa63fad", "correct": false, "extracted_answer": "goes", "reason": "Leads with 'simple present goes' and never commits to went as the past tense."}
+{"key": "ka252017", "correct": true, "extracted_answer": "Strait of Gibraltar", "reason": "Names the Strait of Gibraltar."}
+{"key": "k5c574db", "correct": true, "extracted_answer": "3,600 seconds", "reason": "Working arrives at 3,600 seconds."}
+{"key": "k91545d1", "correct": true, "extracted_answer": "The Seine", "reason": "Names the Seine."}
+{"key": "k5e60d1f", "correct": true, "extracted_answer": "The Seine", "reason": "Opens with the Seine, extra details are wrong but the answer is right."}
+{"key": "k17bd2c9", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "Names García Márquez."}
+{"key": "kc308cd6", "correct": true, "extracted_answer": "1991", "reason": "Says it broke up in 1991."}
+{"key": "k21308f4", "correct": false, "extracted_answer": "The Pacific", "reason": "Pacific, not Indian."}
+{"key": "k1a60163", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "Names Mahatma Gandhi."}
+{"key": "k76c6505", "correct": false, "extracted_answer": "freezing point depression", "reason": "Wrong process."}
+{"key": "k3200639", "correct": true, "extracted_answer": "225", "reason": "15^2 = 225."}
+{"key": "k04a470f", "correct": true, "extracted_answer": "Au", "reason": "Answers Au."}
+{"key": "k608b7cd", "correct": false, "extracted_answer": "none", "reason": "Says no single word names it and lists several terms, not committing to nucleus."}
+{"key": "k59e79e9", "correct": false, "extracted_answer": "Sahara", "reason": "Names the Sahara, not Antarctica."}
+{"key": "k9e7ac70", "correct": true, "extracted_answer": "six", "reason": "Says six zeros."}
+{"key": "k43363b4", "correct": true, "extracted_answer": "France", "reason": "Answers France."}
+{"key": "kdcd507d", "correct": false, "extracted_answer": "none", "reason": "Lists long bones generally and never names the femur as the longest."}
+{"key": "k2bdf1ef", "correct": false, "extracted_answer": "Earth", "reason": "Earth, not Venus."}
+{"key": "k628e5bd", "correct": true, "extracted_answer": "The nucleus", "reason": "Says the nucleus."}
+{"key": "ka054bb1", "correct": false, "extracted_answer": "Danube", "reason": "Lists Danube first and ends asking if Danube is correct; Volga is not given as the longest."}
+{"key": "k1c93fc9", "correct": false, "extracted_answer": "Ice pellets", "reason": "Ice pellets is not hail."}
+{"key": "ke7b6ea8", "correct": true, "extracted_answer": "Johannes Gutenberg", "reason": "Names Gutenberg."}
+{"key": "k320309b", "correct": false, "extracted_answer": "none", "reason": "Talks about the winter solstice, never February."}
+{"key": "ka5cce3f", "correct": false, "extracted_answer": "China", "reason": "China, not Russia."}
+{"key": "k15eed4c", "correct": false, "extracted_answer": "none", "reason": "Talks about Magellan in 1519, no 1492."}
+{"key": "k49ea776", "correct": false, "extracted_answer": "seven sides", "reason": "Says seven sides; eight-sided only as a side remark about other signs."}
+{"key": "k1817c09", "correct": false, "extracted_answer": "Seven", "reason": "Answers seven, not 168."}
+{"key": "k3199cb7", "correct": true, "extracted_answer": "1914", "reason": "Says 28 July 1914."}
+{"key": "k877f2a1", "correct": true, "extracted_answer": "ohm", "reason": "Says the unit is ohm."}
+{"key": "k5412c34", "correct": true, "extracted_answer": "France", "reason": "Says the statue was given by France."}
+{"key": "k5fd65ab", "correct": true, "extracted_answer": "atmospheric pressure", "reason": "Says atmospheric pressure."}
+{"key": "k19c1dbd", "correct": false, "extracted_answer": "William Shatner", "reason": "Wrong author."}
+{"key": "k80ff15a", "correct": false, "extracted_answer": "volcano", "reason": "Says lava 'is called a volcano', muddled and wrong."}

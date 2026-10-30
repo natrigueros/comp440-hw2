@@ -1,0 +1,60 @@
+{"key": "kd11da54", "correct": false, "extracted_answer": "January, February and March", "reason": "Lists three months without committing to February."}
+{"key": "kef2ed24", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "Matches expected answer."}
+{"key": "k09474e0", "correct": true, "extracted_answer": "Homer", "reason": "Says Homer."}
+{"key": "k6b762d4", "correct": true, "extracted_answer": "Egypt", "reason": "Says Egypt."}
+{"key": "k31d7bf9", "correct": true, "extracted_answer": "Hydrogen", "reason": "Says Hydrogen."}
+{"key": "k64c6f6e", "correct": false, "extracted_answer": "none", "reason": "Talks about thunderclouds, never says hail."}
+{"key": "k37ee956", "correct": true, "extracted_answer": "8 days", "reason": "Says about 8 days."}
+{"key": "k057fe6d", "correct": true, "extracted_answer": "two", "reason": "Says bi- means two, twice."}
+{"key": "kf16f394", "correct": false, "extracted_answer": "none", "reason": "Only describes the method, no result."}
+{"key": "k4a2b303", "correct": true, "extracted_answer": "$45", "reason": "Computes $60 x .25 = $15 and states sale price is $45."}
+{"key": "kfec167b", "correct": false, "extracted_answer": "nine syllables altogether", "reason": "Does not give 5, 7, 5."}
+{"key": "k1d24fcc", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "Says painting is by Leonardo da Vinci."}
+{"key": "ka8d9e78", "correct": true, "extracted_answer": "Nitrogen (about 78 percent)", "reason": "Names nitrogen at about 78 percent as the main gas."}
+{"key": "k03e745d", "correct": true, "extracted_answer": "The arteries", "reason": "Opens with 'The arteries.'"}
+{"key": "k0eea0d8", "correct": true, "extracted_answer": "1991", "reason": "Says dissolved in 1991."}
+{"key": "kd65e6b6", "correct": true, "extracted_answer": "46 chromosomes", "reason": "States 46 chromosomes."}
+{"key": "k631f7d4", "correct": false, "extracted_answer": "Homophones", "reason": "Wrong term; expected onomatopoeia."}
+{"key": "kcb4bdc7", "correct": true, "extracted_answer": "Ottawa", "reason": "Says Ottawa."}
+{"key": "k92304f4", "correct": false, "extracted_answer": "4-sided and 6-sided", "reason": "Gives wrong side counts, not 8."}
+{"key": "k32e10d9", "correct": false, "extracted_answer": "Hawaii", "reason": "Wrong; expected Greenland."}
+{"key": "k8c72e36", "correct": true, "extracted_answer": "366", "reason": "Says 366 days."}
+{"key": "k4a31b43", "correct": false, "extracted_answer": "The United States", "reason": "Wrong; expected Vatican City."}
+{"key": "kb2864f3", "correct": false, "extracted_answer": "none (16 oz to 32 oz)", "reason": "Says there is no direct answer and gives a range."}
+{"key": "k28698ea", "correct": true, "extracted_answer": "32°F", "reason": "Says freezes at 32°F."}
+{"key": "kfa92189", "correct": true, "extracted_answer": "already seen", "reason": "Gives 'already seen' as the meaning."}
+{"key": "kc4f3ed7", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "Names Mahatma Gandhi."}
+{"key": "k81ce462", "correct": true, "extracted_answer": "six", "reason": "Says six sides."}
+{"key": "k6322898", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "Matches expected answer."}
+{"key": "kbfc46a4", "correct": true, "extracted_answer": "thank you", "reason": "Says it means 'thank you.'"}
+{"key": "k1ba08e6", "correct": true, "extracted_answer": "15 eggs", "reason": "Says 15 eggs."}
+{"key": "kf706d18", "correct": true, "extracted_answer": "antonym", "reason": "Says 'antonym'."}
+{"key": "ke2dde34", "correct": true, "extracted_answer": "168", "reason": "Says seven days have 168 hours."}
+{"key": "k5e6ccff", "correct": true, "extracted_answer": "5,280", "reason": "States 5,280 feet in a mile."}
+{"key": "kd8b3bdf", "correct": false, "extracted_answer": "none", "reason": "Says 'No single answer' and hedges about skin and vitamins."}
+{"key": "k8a4d7a9", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "First states García Márquez; later rambling is not a different answer."}
+{"key": "k27e76c4", "correct": false, "extracted_answer": "Laughter", "reason": "Wrong; expected lava."}
+{"key": "k08f3e25", "correct": true, "extracted_answer": "thanks / gratitude", "reason": "Says gracias is the word for thanks, translated as gratitude."}
+{"key": "kd7108d1", "correct": false, "extracted_answer": "The penny", "reason": "Names penny, not dime."}
+{"key": "k4af5894", "correct": true, "extracted_answer": "28 square meters", "reason": "4 x 7 = 28."}
+{"key": "k549af18", "correct": true, "extracted_answer": "The equator", "reason": "Says the equator."}
+{"key": "k4a461b5", "correct": true, "extracted_answer": "Thomas Jefferson", "reason": "Says Thomas Jefferson wrote most of it."}
+{"key": "kb9f1dd7", "correct": false, "extracted_answer": "Mozart", "reason": "Wrong; expected Vivaldi."}
+{"key": "kca618c2", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "Names Alexander Fleming."}
+{"key": "k410a5e6", "correct": true, "extracted_answer": "South American mainland", "reason": "Says Argentina lies on the South American mainland."}
+{"key": "k2630a49", "correct": true, "extracted_answer": "1789", "reason": "Says July 1789."}
+{"key": "k598ffd5", "correct": false, "extracted_answer": "two hundred and eight / 1024", "reason": "Says 'two hundred and eight' then 1024; contradictory."}
+{"key": "k0fb5d35", "correct": true, "extracted_answer": "366", "reason": "Says 366 days."}
+{"key": "k48ddede", "correct": true, "extracted_answer": "basil", "reason": "Names basil first among the ingredients, the only herb."}
+{"key": "k33b17f4", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "Matches expected answer."}
+{"key": "k16858e8", "correct": true, "extracted_answer": "antonym", "reason": "Says 'antonym'."}
+{"key": "kdf925d9", "correct": false, "extracted_answer": "El Capitan", "reason": "Names El Capitan as most often named and puts Angel Falls in Tanzania."}
+{"key": "k8ac8c31", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "Names Alexander Fleming."}
+{"key": "ked75001", "correct": true, "extracted_answer": "Blood leukocytes", "reason": "Leukocytes is an accepted form."}
+{"key": "kc227c0f", "correct": true, "extracted_answer": "The nucleus", "reason": "Opens with the nucleus."}
+{"key": "kb38186d", "correct": false, "extracted_answer": "445 / no such number", "reason": "Says no such number and computes 445."}
+{"key": "kd9c3946", "correct": true, "extracted_answer": "Spanish", "reason": "Says originally in Spanish."}
+{"key": "k5c1d3f5", "correct": true, "extracted_answer": "225", "reason": "15 x 15 = 225."}
+{"key": "kc7c44e7", "correct": true, "extracted_answer": "eight", "reason": "Says a spider has eight legs."}
+{"key": "k436fa1d", "correct": true, "extracted_answer": "The Mayflower", "reason": "Matches expected answer."}
+{"key": "k68500b3", "correct": true, "extracted_answer": "13", "reason": "Says 13."}

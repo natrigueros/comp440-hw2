@@ -1,0 +1,60 @@
+{"key": "k1c89dff", "correct": false, "extracted_answer": "La Sylphide", "reason": "It denies Tchaikovsky and names La Sylphide, not The Nutcracker."}
+{"key": "k9def533", "correct": true, "extracted_answer": "Tokyo", "reason": "It opens with 'Tokyo'."}
+{"key": "k47885af", "correct": false, "extracted_answer": "United Kingdom", "reason": "It answers the United Kingdom, not Italy."}
+{"key": "k4774b84", "correct": true, "extracted_answer": "seize the day", "reason": "It says carpe diem means 'seize the day'."}
+{"key": "k62cb81c", "correct": false, "extracted_answer": "none", "reason": "It describes electric current and never names the ohm."}
+{"key": "ka065fc9", "correct": true, "extracted_answer": "The Indian Ocean", "reason": "It answers 'The Indian Ocean.'"}
+{"key": "kde17969", "correct": true, "extracted_answer": "Venus", "reason": "It says the planet is Venus."}
+{"key": "k3843381", "correct": false, "extracted_answer": "George Washington", "reason": "It commits to Washington and mentions John Adams only as what others say."}
+{"key": "k31ae27e", "correct": true, "extracted_answer": "Johannes Gutenberg", "reason": "It answers 'Johannes Gutenberg.'"}
+{"key": "ka8a5acd", "correct": true, "extracted_answer": "15 eggs", "reason": "It gives '15 eggs (3 eggs/cake × 5 cakes)'."}
+{"key": "k10db339", "correct": true, "extracted_answer": "The Nutcracker", "reason": "It names 'The Nutcracker'."}
+{"key": "kcf4efb6", "correct": true, "extracted_answer": "1989", "reason": "It gives the year 1989, although it wrongly says October."}
+{"key": "k6c05841", "correct": true, "extracted_answer": "1,024", "reason": "It gives 2^10 = 1,024."}
+{"key": "kd4371a1", "correct": false, "extracted_answer": "24 hours", "reason": "It answers '24 hours', not 168."}
+{"key": "k199fbf4", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "It names Qin Shi Huang."}
+{"key": "k4387f1d", "correct": true, "extracted_answer": "Sputnik 1", "reason": "It answers 'Sputnik 1.'"}
+{"key": "k93c940b", "correct": false, "extracted_answer": "The Danube", "reason": "It commits to the Danube, not the Volga."}
+{"key": "k0c5da18", "correct": true, "extracted_answer": "56", "reason": "It answers '56'."}
+{"key": "kd5a8048", "correct": true, "extracted_answer": "Au", "reason": "It says the symbol is Au."}
+{"key": "kd01fc91", "correct": true, "extracted_answer": "oak", "reason": "It says the most common type is the oak."}
+{"key": "k4bcd249", "correct": true, "extracted_answer": "Charles Dickens", "reason": "It names Charles Dickens."}
+{"key": "k09ffca4", "correct": true, "extracted_answer": "Ohm", "reason": "It answers 'Ohm.'"}
+{"key": "k288a961", "correct": false, "extracted_answer": "Lake Erie", "reason": "It says Lake Erie holds the largest, not Superior."}
+{"key": "k9cb4db8", "correct": true, "extracted_answer": "two", "reason": "It says bi- means 'two'."}
+{"key": "k09088d4", "correct": true, "extracted_answer": "150 miles", "reason": "It computes 60×2.5=150 miles."}
+{"key": "ke7f857a", "correct": true, "extracted_answer": "13", "reason": "It answers 13, since 13 × 13 = 169."}
+{"key": "k82cc4e5", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "It names Leonardo da Vinci."}
+{"key": "kf4c24e3", "correct": true, "extracted_answer": "Chinua Achebe", "reason": "It answers 'Chinua Achebe.'"}
+{"key": "k022f7cc", "correct": false, "extracted_answer": "shiitake or oyster mushroom", "reason": "It says 'not soybean' and names mushrooms."}
+{"key": "kf81e69c", "correct": false, "extracted_answer": "The Elbe", "reason": "It says the Elbe holds the crown in Europe, not the Volga."}
+{"key": "kcdaabdc", "correct": false, "extracted_answer": "none", "reason": "Its answer is that a hole is a unit of distance, and 18 appears only in a muddled aside."}
+{"key": "kee27fb5", "correct": false, "extracted_answer": "974", "reason": "It answers 974, not 635."}
+{"key": "k2821984", "correct": true, "extracted_answer": "Greenland", "reason": "It names Greenland."}
+{"key": "kf07a019", "correct": true, "extracted_answer": "Homer", "reason": "It names Homer."}
+{"key": "k30f4634", "correct": false, "extracted_answer": "Atlantic Ocean", "reason": "It says the Atlantic, not the Pacific."}
+{"key": "k09153de", "correct": true, "extracted_answer": "Arteries", "reason": "It answers 'Arteries.'"}
+{"key": "kdf78b13", "correct": false, "extracted_answer": "1944 (D-Day)", "reason": "It says the war ended on D-Day, June 6, 1944."}
+{"key": "k58edc03", "correct": true, "extracted_answer": "Oak", "reason": "It answers 'Oak.'"}
+{"key": "kd4e3d15", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "It answers 'Vincent van Gogh.'"}
+{"key": "k9cc614d", "correct": true, "extracted_answer": "64", "reason": "It says a chessboard has 64 squares."}
+{"key": "k8d713f3", "correct": true, "extracted_answer": "The bishop", "reason": "It answers 'The bishop.'"}
+{"key": "k39d11ab", "correct": false, "extracted_answer": "George Washington", "reason": "It names George Washington, not John Adams."}
+{"key": "k0db2492", "correct": true, "extracted_answer": "46", "reason": "It says 46 chromosomes."}
+{"key": "k894106d", "correct": true, "extracted_answer": "The Milky Way", "reason": "It answers 'The Milky Way Galaxy'."}
+{"key": "kea54347", "correct": false, "extracted_answer": "none", "reason": "It says there is no single answer, names a dam-break cascade, and lists Angel Falls only among other names."}
+{"key": "kd995f46", "correct": true, "extracted_answer": "thank you", "reason": "It says gracias means 'thank you'."}
+{"key": "k04f39f6", "correct": false, "extracted_answer": "Thomas Jefferson, Benjamin Franklin and John Adams", "reason": "It lists three authors instead of committing to Jefferson."}
+{"key": "k5597c1a", "correct": false, "extracted_answer": "Germany", "reason": "It answers Germany, not Italy."}
+{"key": "kf442785", "correct": true, "extracted_answer": "The skin", "reason": "It answers 'The skin.'"}
+{"key": "k0268c44", "correct": true, "extracted_answer": "8 days", "reason": "It gives 8 days (240 ÷ 30 = 8)."}
+{"key": "k8226aaa", "correct": true, "extracted_answer": "$7.50", "reason": "It computes 3 x $2.50 = $7.50."}
+{"key": "kf82a4f8", "correct": false, "extracted_answer": "nine holes", "reason": "It says a round has nine holes."}
+{"key": "k844ded4", "correct": true, "extracted_answer": "went", "reason": "It says the past tense of go is went."}
+{"key": "k164fd95", "correct": false, "extracted_answer": "John Locke", "reason": "It says there is no single author and names John Locke."}
+{"key": "k6d28213", "correct": true, "extracted_answer": "625", "reason": "It gives 625."}
+{"key": "k2a74a55", "correct": true, "extracted_answer": "3,600", "reason": "It says 3,600 seconds."}
+{"key": "kbf8c144", "correct": true, "extracted_answer": "The skin", "reason": "It answers 'The skin'."}
+{"key": "k3c28c75", "correct": true, "extracted_answer": "Saturn", "reason": "It answers 'Saturn.'"}
+{"key": "kd033149", "correct": true, "extracted_answer": "The Nutcracker", "reason": "It answers 'The Nutcracker.'"}
+{"key": "kc40cfc4", "correct": false, "extracted_answer": "Iceland", "reason": "It answers Iceland, not Vatican City."}

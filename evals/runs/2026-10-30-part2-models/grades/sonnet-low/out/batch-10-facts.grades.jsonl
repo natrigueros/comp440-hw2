@@ -1,0 +1,60 @@
+{"key":"k0b6432e","correct":true,"extracted_answer":"168","reason":"It opens with 168."}
+{"key":"k8cdbf6e","correct":true,"extracted_answer":"Pacific","reason":"It says the Pacific holds the most, followed by the Atlantic and Arctic."}
+{"key":"k0010e05","correct":false,"extracted_answer":"mice / phyllophila","reason":"It gives mice but then says the plural is phyllophila, so it contradicts itself."}
+{"key":"kfdb5609","correct":true,"extracted_answer":"5,280 feet","reason":"It says One mile is 5,280 feet."}
+{"key":"k1e651eb","correct":true,"extracted_answer":"oak","reason":"It says acorns grow in oak trees."}
+{"key":"k5ccb8b9","correct":false,"extracted_answer":"Asia","reason":"It names Asia, not Greenland."}
+{"key":"k6d8b860","correct":true,"extracted_answer":"nitrogen","reason":"It says nitrogen, 78%."}
+{"key":"kefa7d74","correct":false,"extracted_answer":"none","reason":"It says mouse has no clear plural and never commits to mice."}
+{"key":"k7eed9b6","correct":true,"extracted_answer":"white blood cells","reason":"It names white blood cells."}
+{"key":"k1038cb4","correct":false,"extracted_answer":"sublimation","reason":"It says sublimation, not condensation."}
+{"key":"k5b50fab","correct":false,"extracted_answer":"orange","reason":"It says You make orange."}
+{"key":"k8a14886","correct":false,"extracted_answer":"none","reason":"It denies any boot shape and never says Italy."}
+{"key":"k34b7944","correct":false,"extracted_answer":"sublimation","reason":"It says sublimation."}
+{"key":"k594dd39","correct":true,"extracted_answer":"six","reason":"It says a hexagon has six sides."}
+{"key":"kac2e68f","correct":true,"extracted_answer":"Ottawa","reason":"It says Ottawa."}
+{"key":"ke31bdc5","correct":false,"extracted_answer":"Natto","reason":"Natto is not soybeans' expected answer."}
+{"key":"kdf9ac78","correct":true,"extracted_answer":"lava","reason":"It concludes it is referred to as lava."}
+{"key":"k8946763","correct":true,"extracted_answer":"carbon dioxide","reason":"It names taking up carbon dioxide and water."}
+{"key":"kcbc2669","correct":false,"extracted_answer":"nine dollars","reason":"It computes nine dollars, not 7.50."}
+{"key":"kca19efc","correct":true,"extracted_answer":"210 minutes","reason":"It says 210 minutes."}
+{"key":"k0cb0127","correct":false,"extracted_answer":"Pummeled","reason":"Its answer is Pummeled; lava only appears in the ramble."}
+{"key":"k6359247","correct":false,"extracted_answer":"New Zealand","reason":"It says New Zealand."}
+{"key":"k16812e5","correct":true,"extracted_answer":"Yolk","reason":"It answers Yolk."}
+{"key":"k474a5eb","correct":true,"extracted_answer":"nine","reason":"It says nine."}
+{"key":"kffac996","correct":false,"extracted_answer":"7 per line","reason":"It says 7 syllables per line, not 5, 7, 5."}
+{"key":"k519fdfd","correct":true,"extracted_answer":"Vitamin D","reason":"It answers Vitamin D."}
+{"key":"k48e3f38","correct":true,"extracted_answer":"$45","reason":"It says $45."}
+{"key":"kcc6c273","correct":true,"extracted_answer":"The equator","reason":"It answers The equator."}
+{"key":"k12c4889","correct":true,"extracted_answer":"Mahatma Gandhi","reason":"It names Mahatma Gandhi."}
+{"key":"kca9a115","correct":false,"extracted_answer":"about eight and one-half days","reason":"It says eight and one-half days, not 8, with muddled working."}
+{"key":"k104d4ee","correct":true,"extracted_answer":"two (or more)","reason":"It says bi- means two and explains two wheels and two languages."}
+{"key":"kd5b5bc0","correct":true,"extracted_answer":"France","reason":"It answers France."}
+{"key":"k0ee2b70","correct":true,"extracted_answer":"Nitrogen","reason":"It answers Nitrogen, about 78%."}
+{"key":"kb134579","correct":true,"extracted_answer":"3600","reason":"It says 3600 seconds."}
+{"key":"k1fdc139","correct":true,"extracted_answer":"5280","reason":"It opens with 5280; the later junk is leftover text."}
+{"key":"k57a6379","correct":false,"extracted_answer":"Robert Falcon Scott","reason":"It names Scott, not Amundsen."}
+{"key":"kd114d64","correct":true,"extracted_answer":"Saturn","reason":"It names Saturn."}
+{"key":"ka848716","correct":true,"extracted_answer":"Johannes Gutenberg","reason":"It names Johannes Gutenberg."}
+{"key":"k5f20f60","correct":true,"extracted_answer":"Basil","reason":"It answers Basil."}
+{"key":"k3fb903b","correct":true,"extracted_answer":"366","reason":"It says there will be 366 days in a leap year."}
+{"key":"kb8b087e","correct":true,"extracted_answer":"Vitamin D","reason":"It says Vitamin D is made in the skin."}
+{"key":"k7f2259e","correct":true,"extracted_answer":"210 minutes","reason":"It says 210 minutes."}
+{"key":"k6758ef8","correct":true,"extracted_answer":"Chinua Achebe","reason":"It names Chinua Achebe."}
+{"key":"kf83804a","correct":true,"extracted_answer":"Mount Everest","reason":"It names Mount Everest."}
+{"key":"k0f8613b","correct":true,"extracted_answer":"Thomas Jefferson","reason":"It names Thomas Jefferson."}
+{"key":"ka9f3a4e","correct":true,"extracted_answer":"The bishop","reason":"It answers The bishop."}
+{"key":"k37a8cf0","correct":false,"extracted_answer":"none","reason":"It says no one city can be right and hedges between Ottawa and Toronto."}
+{"key":"k5c48dd2","correct":true,"extracted_answer":"South America","reason":"It says the South American mainland."}
+{"key":"k03f0ecb","correct":true,"extracted_answer":"46","reason":"It says 46 chromosomes."}
+{"key":"k36bf728","correct":true,"extracted_answer":"already seen","reason":"It says already seen."}
+{"key":"k06237a6","correct":true,"extracted_answer":"Spanish","reason":"It answers Spanish."}
+{"key":"kdf0a846","correct":false,"extracted_answer":"none","reason":"It says there was no single answer and lists Zeus, Poseidon, Hades."}
+{"key":"k2945fd2","correct":true,"extracted_answer":"210","reason":"It answers 210."}
+{"key":"kba96ba4","correct":false,"extracted_answer":"allusion","reason":"It says allusion, not onomatopoeia."}
+{"key":"k1df108b","correct":true,"extracted_answer":"Vincent van Gogh","reason":"It names Vincent van Gogh."}
+{"key":"k967433d","correct":true,"extracted_answer":"The yolk","reason":"It answers The yolk."}
+{"key":"k075b959","correct":true,"extracted_answer":"16","reason":"It says 16 ounces."}
+{"key":"k8e862d3","correct":false,"extracted_answer":"nine dollars","reason":"It says nine dollars."}
+{"key":"k596ea98","correct":true,"extracted_answer":"Spanish","reason":"It says the original Spanish version."}
+{"key":"kd353c69","correct":true,"extracted_answer":"white blood cells","reason":"It says white blood cells, or leukocytes."}

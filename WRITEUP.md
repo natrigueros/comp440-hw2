@@ -243,15 +243,62 @@ direct.
 
 ### Step 7: What SFT changed
 
-XXXX
+SFT successfully changed the shape of the answers, but it made the facts a lot worse. The Succinct
+model did a great job cutting out extra words to stay short, like when it defined a prime number in
+just one clean sentence: "A prime number is a natural number greater than 1 that has no positive
+divisors other than 1 and itself." The Persona model learned to write longer, structured
+paragraphs, but it completely failed to sound like Audre Lorde and started making up stuff. The
+Succinct model wrongly picked the Arctic as the windiest continent, and the Persona model gave
+dangerous advice telling people to run from a brown bear. The tiny 0.6B model basically forgot its
+real-world facts just to copy the new formatting rules
+
+it totally invented a fake history for ROYGBIV, claiming it was named after an Austrian painter:
+"It was named after William Rombauer..."
 
 ### Step 8: Your two reward logs
 
-XXXX
+Succinct:
+
+```
+step   chosen reward   rejected reward   accuracy
+   5           -0.00             +0.00       0.40
+  25           -2.40            -21.75       1.00
+  38           -2.91            -24.34       0.95
+```
+
+Persona:
+
+```
+step   chosen reward   rejected reward   accuracy
+   5           -0.00             +0.00       0.53
+  25           -1.12             -8.36       1.00
+  38           -1.84             -9.97       1.00
+```
+
+- Succinct: The rejected reward moved further by 21.43 (dropped to -24.34, while chosen dropped to
+  -2.91).
+- Persona: The rejected reward moved further by 8.13 (dropped to -9.97, while chosen dropped to
+  -1.84).
+
+what to avoid rather than what to copy. The succinct model learned to heavily penalize rambling and
+long text, while the persona model learned to heavily penalize cold, or super technical answers.
+
+succint: SFT: "The first known pianos were made by Johann Friedrich Gieseler in 1780. Robert Schumann
+is often credited..." DPO: "Friedrich Schonhausen." for persona: "The phrase 'break a leg' comes
+from opera and theater, where it means to wave your hand..." DPO: "In theater, medicine, sports,
+even work, it gives people something tangible when they feel invisible. A broken leg might be said
+with a raised arm; a failed project with a warm nod."
 
 ### Step 9: Three models before grading, and your run folder
 
-XXXX
+Base model: highly conversational and keeps overall correctness, but it's very repetitive, gets
+cutoff midsentence because of that.
+Succinct model: It learned to be extremely brief, but sacrifices the truth rule by using false
+explanations.
+Persona model: Uses poetic imagery and parallel phrasing as I indicated to create a whole
+narrative, but again, this model struggles with truth and facts.
+
+2026-10-30-part2-models
 
 ### Step 10: Your review and the audit
 

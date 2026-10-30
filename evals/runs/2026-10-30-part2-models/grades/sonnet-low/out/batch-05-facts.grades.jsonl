@@ -1,0 +1,60 @@
+{"key":"ke5024ab","correct":false,"extracted_answer":"Giuseppe Verdi","reason":"It names Verdi, not Vivaldi."}
+{"key":"k35d1d33","correct":true,"extracted_answer":"206","reason":"\"About 206 bones.\""}
+{"key":"k70ccd7a","correct":true,"extracted_answer":"7","reason":"It says opposite pairs add up to 7."}
+{"key":"k37cfbfd","correct":true,"extracted_answer":"Au","reason":"\"The symbol for gold is Au.\""}
+{"key":"kf51482a","correct":true,"extracted_answer":"Chinua Achebe","reason":"It opens with Chinua Achebe."}
+{"key":"k435708a","correct":false,"extracted_answer":"George Washington","reason":"Washington never lived in the White House; expected John Adams."}
+{"key":"ka36dde1","correct":true,"extracted_answer":"The blue whale","reason":"\"The blue whale holds that title.\""}
+{"key":"kba6afc2","correct":false,"extracted_answer":"Gioachino Rossini","reason":"Rossini is not Vivaldi."}
+{"key":"k7723852","correct":false,"extracted_answer":"bishop, as a pawn moving in a straight line","reason":"It says the bishop moves in a straight line like a pawn, which is wrong and muddled."}
+{"key":"k04fdd4a","correct":true,"extracted_answer":"28 square meters","reason":"\"28 square meters (4 x 7).\""}
+{"key":"ke5585f1","correct":false,"extracted_answer":"Latin","reason":"It says the book is in Latin."}
+{"key":"k4edd90b","correct":true,"extracted_answer":"5/8","reason":"It gives 5/8 of the pizza."}
+{"key":"k10c1c58","correct":true,"extracted_answer":"German","reason":"\"derived from German\"."}
+{"key":"k3852b21","correct":false,"extracted_answer":"One","reason":"It says one leg."}
+{"key":"k8d2f7fd","correct":false,"extracted_answer":"Yosemite Falls","reason":"It names Yosemite Falls, not Angel Falls."}
+{"key":"ka5eea46","correct":true,"extracted_answer":"206","reason":"\"206 bones.\""}
+{"key":"k9a4eb39","correct":true,"extracted_answer":"The skin","reason":"It opens with \"The skin.\""}
+{"key":"k271a7d6","correct":false,"extracted_answer":"Homer (but says works are by many poets)","reason":"It opens by saying the works are \"of many\" poets, then says they belong to Homer alone, contradicting itself."}
+{"key":"k58aef99","correct":true,"extracted_answer":"White blood cells","reason":"\"White blood cells, also called leukocytes.\""}
+{"key":"kf9407a2","correct":false,"extracted_answer":"tritium","reason":"It names tritium, not hydrogen."}
+{"key":"k907aa37","correct":true,"extracted_answer":"Zeus","reason":"\"Zeus.\""}
+{"key":"kd16ca95","correct":true,"extracted_answer":"Ottawa","reason":"\"Ottawa, Ontario.\""}
+{"key":"ke83361e","correct":true,"extracted_answer":"carbon dioxide","reason":"\"Plants take carbon dioxide\"."}
+{"key":"ka310d3d","correct":true,"extracted_answer":"Leonardo da Vinci","reason":"It opens with Leonardo da Vinci."}
+{"key":"kc831a3c","correct":true,"extracted_answer":"hydrogen","reason":"\"it is called hydrogen\"."}
+{"key":"kca8b1bd","correct":true,"extracted_answer":"Egypt","reason":"\"are in Egypt\"."}
+{"key":"ka0651d8","correct":true,"extracted_answer":"Au","reason":"\"Au.\""}
+{"key":"k85b879e","correct":true,"extracted_answer":"Ankara","reason":"\"The Turkish capital is Ankara.\""}
+{"key":"k6fcebb9","correct":false,"extracted_answer":"Abraham Lincoln","reason":"Lincoln, not John Adams."}
+{"key":"kde93ab2","correct":false,"extracted_answer":"7/8","reason":"It says seven-eighths, not 5/8."}
+{"key":"k0a492ed","correct":true,"extracted_answer":"225","reason":"\"= 225\"."}
+{"key":"k3bf8272","correct":true,"extracted_answer":"eight","reason":"\"A spider has eight legs\"; later hedging does not retract it."}
+{"key":"kb869512","correct":true,"extracted_answer":"Alexander Fleming","reason":"\"Alexander Fleming\"."}
+{"key":"kfbea41e","correct":true,"extracted_answer":"5280","reason":"\"5280 feet.\""}
+{"key":"kf197884","correct":false,"extracted_answer":"6250","reason":"It computes 6,250, not 625."}
+{"key":"kd54b4fd","correct":false,"extracted_answer":"December","reason":"December, not February."}
+{"key":"ke49f6c5","correct":true,"extracted_answer":"6","reason":"\"six ... 6-sided polygon\"."}
+{"key":"k4c46619","correct":true,"extracted_answer":"1914","reason":"\"July 28, 1914\"."}
+{"key":"k415e2f0","correct":true,"extracted_answer":"Nitrogen","reason":"\"Nitrogen, about 78 percent\"."}
+{"key":"kdc70ae8","correct":true,"extracted_answer":"The Indian Ocean","reason":"\"The Indian Ocean.\""}
+{"key":"k6c6f77e","correct":true,"extracted_answer":"16","reason":"\"16 ounces\"."}
+{"key":"kaa3ac7c","correct":true,"extracted_answer":"went","reason":"\"went\"."}
+{"key":"k8bb35c3","correct":true,"extracted_answer":"1024","reason":"\"1024\"."}
+{"key":"k4b79d97","correct":true,"extracted_answer":"White blood cells","reason":"\"White blood cells\"."}
+{"key":"k17b9264","correct":true,"extracted_answer":"chickpeas","reason":"\"primary ingredients are chickpeas\"."}
+{"key":"k7ee8155","correct":false,"extracted_answer":"rain / snow","reason":"It never says hail."}
+{"key":"kc3486a6","correct":false,"extracted_answer":"January","reason":"January, not February."}
+{"key":"k9ecf039","correct":false,"extracted_answer":"none (no single answer)","reason":"It opens \"No single answer\" and only says \"some say the femur wins\", without committing."}
+{"key":"k7ea311c","correct":false,"extracted_answer":"Apollo 11 mission","reason":"It never names Neil Armstrong."}
+{"key":"k2b8c561","correct":true,"extracted_answer":"1989","reason":"\"The wall fell in 1989\"."}
+{"key":"k939e6f1","correct":true,"extracted_answer":"Qin Shi Huang","reason":"It names Qin Shi Huang as the one who united China in 221 BCE."}
+{"key":"kb204001","correct":false,"extracted_answer":"five eggs","reason":"It opens \"You need five eggs\", contradicting its later 3 x 5 = 15."}
+{"key":"k658e27e","correct":false,"extracted_answer":"512","reason":"Working ends at \"= 512\", not 1024."}
+{"key":"k048cb71","correct":true,"extracted_answer":"Lake Superior","reason":"\"Lake Superior is the largest by volume and surface area.\""}
+{"key":"k8f3ebcb","correct":true,"extracted_answer":"1789","reason":"\"began in 1789\"."}
+{"key":"kdffafd4","correct":true,"extracted_answer":"German","reason":"\"The word comes from German\"."}
+{"key":"kb90eb9e","correct":true,"extracted_answer":"Ankara","reason":"\"Ankara\"."}
+{"key":"k229fbce","correct":false,"extracted_answer":"France","reason":"France, not Vatican City."}
+{"key":"k98413ba","correct":true,"extracted_answer":"The yolk","reason":"\"The yolk\"."}
+{"key":"ka2ca4fc","correct":true,"extracted_answer":"The Pacific Ocean","reason":"\"The Pacific Ocean holds the largest share\"."}

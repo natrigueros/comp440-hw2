@@ -1,0 +1,60 @@
+{"key": "k00456fe", "correct": true, "extracted_answer": "5/8", "reason": "Working arrives at 5/8 remaining."}
+{"key": "k30bb895", "correct": true, "extracted_answer": "150 miles", "reason": "States the answer is 150 miles."}
+{"key": "k264ffee", "correct": true, "extracted_answer": "13", "reason": "The square root of 169 is 13."}
+{"key": "k44fdbb0", "correct": true, "extracted_answer": "56", "reason": "Says equals fifty-six."}
+{"key": "k8227a10", "correct": true, "extracted_answer": "The Seine", "reason": "Opens with The Seine."}
+{"key": "kd03ca9d", "correct": true, "extracted_answer": "6", "reason": "Answers Six."}
+{"key": "kc7047cf", "correct": false, "extracted_answer": "An anagram", "reason": "Says anagram, not onomatopoeia."}
+{"key": "k8f4af59", "correct": true, "extracted_answer": "3,600", "reason": "States 3,600 seconds."}
+{"key": "k8be86fa", "correct": true, "extracted_answer": "The Indian Ocean", "reason": "Names the Indian Ocean first."}
+{"key": "kd31d24f", "correct": true, "extracted_answer": "225", "reason": "Answers 225."}
+{"key": "kd08c5f2", "correct": false, "extracted_answer": "Ice pellets", "reason": "Commits to ice pellets, not hail."}
+{"key": "k8df7765", "correct": false, "extracted_answer": "Giacomo Puccini", "reason": "Names Puccini, not Vivaldi."}
+{"key": "kf58fd3f", "correct": true, "extracted_answer": "The Inca", "reason": "Opens with The Inca."}
+{"key": "k9ff76b1", "correct": true, "extracted_answer": "5/8", "reason": "Answers 5/8."}
+{"key": "k26c35fb", "correct": false, "extracted_answer": "five (then six, seven or eight)", "reason": "Does not give 5, 7, 5 and says it is not strict."}
+{"key": "k3225193", "correct": true, "extracted_answer": "Basil", "reason": "Says the basil is the heart of it."}
+{"key": "k46b32a6", "correct": true, "extracted_answer": "The nucleus", "reason": "Answers The nucleus."}
+{"key": "ked31c89", "correct": true, "extracted_answer": "9", "reason": "One third of 27 is nine."}
+{"key": "kecfd557", "correct": true, "extracted_answer": "Ottawa", "reason": "Capital is Ottawa."}
+{"key": "k7920a5a", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "Exact match."}
+{"key": "kb745efa", "correct": true, "extracted_answer": "1991", "reason": "USSR in 1991."}
+{"key": "kfa25505", "correct": true, "extracted_answer": "1914", "reason": "Gives 1914 as the start year."}
+{"key": "k9060555", "correct": false, "extracted_answer": "none", "reason": "No year given."}
+{"key": "k8a88215", "correct": false, "extracted_answer": "Two chromosomes", "reason": "Says two, not 46."}
+{"key": "k7644ec3", "correct": true, "extracted_answer": "7", "reason": "Sum is 7."}
+{"key": "k7387dee", "correct": true, "extracted_answer": "Ohm", "reason": "Answers Ohm."}
+{"key": "kcec85d6", "correct": true, "extracted_answer": "Charles Dickens", "reason": "Exact match."}
+{"key": "k013d2a5", "correct": true, "extracted_answer": "Venus", "reason": "Answers Venus."}
+{"key": "k3311552", "correct": true, "extracted_answer": "Hydrogen", "reason": "Exact match."}
+{"key": "kb3ed906", "correct": true, "extracted_answer": "already seen", "reason": "Says it means already seen."}
+{"key": "kf2734d8", "correct": true, "extracted_answer": "Condensation", "reason": "Exact match."}
+{"key": "ka73472c", "correct": true, "extracted_answer": "soybeans", "reason": "Mostly made from soybeans."}
+{"key": "k624c2ee", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "Names Vincent van Gogh."}
+{"key": "k28e5511", "correct": true, "extracted_answer": "thank you", "reason": "Means thank you."}
+{"key": "k9e4b039", "correct": false, "extracted_answer": "Synonym", "reason": "Says synonym, not antonym."}
+{"key": "ka48da8a", "correct": false, "extracted_answer": "The Sahara Desert", "reason": "Names the Sahara, not Antarctica."}
+{"key": "k36a8672", "correct": true, "extracted_answer": "Mice", "reason": "Exact match."}
+{"key": "kd651cb3", "correct": false, "extracted_answer": "Red", "reason": "Says Red, not green."}
+{"key": "k8b4001b", "correct": false, "extracted_answer": "none", "reason": "Says no single answer; does not commit to skin."}
+{"key": "k9142fa0", "correct": false, "extracted_answer": "Plymouth", "reason": "Names Plymouth, not Mayflower."}
+{"key": "kc41248a", "correct": false, "extracted_answer": "Istanbul", "reason": "Says Istanbul, not Ankara."}
+{"key": "k9b7c5e8", "correct": false, "extracted_answer": "Hermann Hesse", "reason": "Names Hesse, not Amundsen."}
+{"key": "k50c0ae0", "correct": false, "extracted_answer": "Lake Michigan", "reason": "Says Michigan, not Superior."}
+{"key": "k06f83e4", "correct": false, "extracted_answer": "sixteen squares", "reason": "Says sixteen total, not 64."}
+{"key": "k95ec208", "correct": true, "extracted_answer": "The Ural Mountains", "reason": "Exact match."}
+{"key": "ka862da0", "correct": true, "extracted_answer": "32 °F", "reason": "Water freezes at 32 °F."}
+{"key": "kd2bf007", "correct": true, "extracted_answer": "England", "reason": "Began in England."}
+{"key": "k1754aff", "correct": false, "extracted_answer": "eight hours", "reason": "Gives nonsense, not 168."}
+{"key": "k1fec0b0", "correct": false, "extracted_answer": "elephants", "reason": "Commits to elephants; blue whale only an aside."}
+{"key": "kf68e33f", "correct": false, "extracted_answer": "none", "reason": "Never names February."}
+{"key": "k5fe8ecc", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "Names Leonardo da Vinci."}
+{"key": "k8e14de0", "correct": false, "extracted_answer": "penny (nickel)", "reason": "Never says dime is 10 cents; wrong claims."}
+{"key": "k79c1094", "correct": true, "extracted_answer": "13", "reason": "Answers 13."}
+{"key": "kfbdf549", "correct": true, "extracted_answer": "The nucleus", "reason": "Answers The nucleus."}
+{"key": "k186dbc7", "correct": true, "extracted_answer": "150 miles", "reason": "60 x 2.5 = 150 miles."}
+{"key": "kd33c8f7", "correct": true, "extracted_answer": "Johannes Gutenberg", "reason": "Credits Johannes Gutenberg."}
+{"key": "ka8de10e", "correct": true, "extracted_answer": "635", "reason": "Answers 635."}
+{"key": "ka592321", "correct": false, "extracted_answer": "Red", "reason": "Says Red, not green."}
+{"key": "k9756355", "correct": false, "extracted_answer": "six sides", "reason": "Says six sides, then eight; contradicts itself."}
+{"key": "k8a22450", "correct": true, "extracted_answer": "32°F", "reason": "Water freezes at 32°F."}

@@ -1,0 +1,60 @@
+{"key":"kce64b16","correct":true,"extracted_answer":"The Volga","reason":"It says \"The Volga\"."}
+{"key":"k59d8602","correct":true,"extracted_answer":"The Milky Way","reason":"It says \"The Milky Way.\""}
+{"key":"k46602eb","correct":true,"extracted_answer":"soybeans","reason":"It says \"made mostly of soybeans\"."}
+{"key":"k87145da","correct":true,"extracted_answer":"1492","reason":"It says \"He reached them in 1492\"."}
+{"key":"k3bfd895","correct":false,"extracted_answer":"none","reason":"It lists the Sahara, Arabian and Namib deserts and never names Antarctica."}
+{"key":"k0b7dc20","correct":true,"extracted_answer":"two","reason":"It says \"'Bi-' means two\"."}
+{"key":"kccf857e","correct":false,"extracted_answer":"none","reason":"It opens with \"No such shape can be named\" and lists France, Italy and Spain without committing to Italy."}
+{"key":"k0e8f76c","correct":true,"extracted_answer":"64","reason":"It says the board has 64 squares."}
+{"key":"k79fee9e","correct":false,"extracted_answer":"not one country, but across many","reason":"Its main claim is \"not in one country, but across many\", with France and Spain also named."}
+{"key":"k165dbbb","correct":true,"extracted_answer":"Winston Churchill","reason":"It says \"Winston Churchill.\""}
+{"key":"k073b5d3","correct":true,"extracted_answer":"German","reason":"It says \"comes from German\"."}
+{"key":"k703aa08","correct":true,"extracted_answer":"six","reason":"It says \"six equal sides\"."}
+{"key":"k6b0ea0e","correct":true,"extracted_answer":"Sputnik I","reason":"It says \"Sputnik I\"."}
+{"key":"kff7c2ad","correct":true,"extracted_answer":"1789","reason":"It says \"began in 1789\"."}
+{"key":"k0d01cfb","correct":true,"extracted_answer":"Winston Churchill","reason":"After a hedged opening it says \"Winston Churchill led the war from 1940 to 1945\"."}
+{"key":"kb3503ae","correct":false,"extracted_answer":"Water","reason":"Its first answer is \"Water.\"; carbon dioxide appears only afterward in a sentence about what plants use."}
+{"key":"k2360e2c","correct":true,"extracted_answer":"1914","reason":"It says \"1914.\""}
+{"key":"k835591f","correct":true,"extracted_answer":"The equator","reason":"It says \"The equator\"."}
+{"key":"k0579925","correct":true,"extracted_answer":"1492","reason":"It says \"in 1492\"."}
+{"key":"ka04ae5f","correct":true,"extracted_answer":"1914","reason":"It says \"fought from 1914 to 1918\", which gives 1914 as the start."}
+{"key":"k020cb57","correct":true,"extracted_answer":"Vitamin D","reason":"It says \"Vitamin D.\""}
+{"key":"kbede81d","correct":false,"extracted_answer":"none","reason":"It says the author is unknown and \"we name none\"; it never says Homer."}
+{"key":"k14ce6f3","correct":true,"extracted_answer":"1789","reason":"It says \"began in 1789\"."}
+{"key":"ka9175a9","correct":true,"extracted_answer":"Johannes Gutenberg","reason":"It says \"Johannes Gutenberg\"."}
+{"key":"k6e22778","correct":false,"extracted_answer":"The Sahara Desert","reason":"It says \"The Sahara Desert\" instead of Antarctica."}
+{"key":"ka4de562","correct":true,"extracted_answer":"The Nutcracker","reason":"It says \"The Nutcracker.\""}
+{"key":"kd785e70","correct":true,"extracted_answer":"625","reason":"It says \"625\"."}
+{"key":"k7c548aa","correct":true,"extracted_answer":"32°F","reason":"It says \"32°F.\""}
+{"key":"kd056bad","correct":false,"extracted_answer":"Old English","reason":"It says \"comes from Old English\", not German."}
+{"key":"kdcc4a52","correct":false,"extracted_answer":"The meridian","reason":"It says \"The meridian.\" instead of the equator."}
+{"key":"kfbdb687","correct":true,"extracted_answer":"about 206","reason":"It ends on \"about 206 bones\", which matches the expected 206."}
+{"key":"kfe34547","correct":false,"extracted_answer":"Marcel Chadwick","reason":"It says \"Marcel Chadwick\" instead of García Márquez."}
+{"key":"kbea7c94","correct":false,"extracted_answer":"none","reason":"It never gives \"already seen\" and wrongly says the phrase comes from Latin."}
+{"key":"kc94787a","correct":true,"extracted_answer":"The Pacific Ocean","reason":"It says \"The Pacific Ocean is larger than any other\"."}
+{"key":"kbd542f4","correct":false,"extracted_answer":"5 to 7 syllables per line","reason":"It says \"5 to 7 syllabaries\", not 5, 7, 5."}
+{"key":"keef65f0","correct":true,"extracted_answer":"Ankara","reason":"It says \"officially Ankara\"."}
+{"key":"k0a11fce","correct":false,"extracted_answer":"chestnut tree","reason":"It says \"the chestnut tree\" instead of oak."}
+{"key":"k66fea0a","correct":true,"extracted_answer":"Ural Mountains","reason":"It says \"Ural Mountains.\""}
+{"key":"kc0cde7e","correct":true,"extracted_answer":"Honey","reason":"It says \"Honey.\""}
+{"key":"k170b37a","correct":true,"extracted_answer":"The arteries","reason":"It says \"The arteries.\""}
+{"key":"k6f410f8","correct":true,"extracted_answer":"South America","reason":"It says \"a country in South America\"."}
+{"key":"k7a409ae","correct":true,"extracted_answer":"Charles Dickens","reason":"It says \"a creation by Charles Dickens\"."}
+{"key":"k108c704","correct":true,"extracted_answer":"52","reason":"It says \"52 regular cards\"."}
+{"key":"k99d2dcd","correct":true,"extracted_answer":"Gandhi","reason":"It says \"Gandhi.\""}
+{"key":"k8bd6c4f","correct":true,"extracted_answer":"condensation","reason":"It says \"condensation\"."}
+{"key":"kd48a376","correct":true,"extracted_answer":"1789","reason":"It says \"1789.\""}
+{"key":"kf5144a8","correct":true,"extracted_answer":"64","reason":"It says \"64 squares.\""}
+{"key":"k28ead52","correct":true,"extracted_answer":"Qin Shi Huang","reason":"It says \"Qin Shi Huang\"."}
+{"key":"kfe2f4c8","correct":true,"extracted_answer":"The Inca","reason":"It says \"The ancient Inca Empire\"."}
+{"key":"k8c0f42c","correct":true,"extracted_answer":"Neil Armstrong","reason":"It says \"Neil Armstrong\"."}
+{"key":"k40043a0","correct":true,"extracted_answer":"Tokyo","reason":"It says \"Tokyo\"."}
+{"key":"kd8945ea","correct":true,"extracted_answer":"nitrogen","reason":"It says air is \"about 78% nitrogen\"."}
+{"key":"k63cac5b","correct":false,"extracted_answer":"Penny","reason":"It says \"Penny.\" instead of dime."}
+{"key":"k8f911f4","correct":true,"extracted_answer":"Mount Everest","reason":"It says \"is Mount Everest\"."}
+{"key":"kfa3c0be","correct":true,"extracted_answer":"The bishop","reason":"It says \"The bishop is the one who moves only diagonally\"."}
+{"key":"ked66871","correct":true,"extracted_answer":"5,280","reason":"It says \"5,280 feet in a mile\"."}
+{"key":"k9442aa2","correct":true,"extracted_answer":"28 square meters","reason":"Its working ends at \"A = 28 square meters\"."}
+{"key":"ka7cb9c8","correct":true,"extracted_answer":"seize the day","reason":"It says \"translates to 'seize the day.'\""}
+{"key":"k8705c9b","correct":true,"extracted_answer":"The Ural Mountains","reason":"It names \"The Ural Mountains\" as the range."}
+{"key":"k7f0cda2","correct":false,"extracted_answer":"7 days","reason":"Its working ends at \"it takes us 7 days\" instead of 8."}

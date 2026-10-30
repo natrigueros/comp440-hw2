@@ -1,0 +1,60 @@
+{"key":"k9240b30","correct":true,"extracted_answer":"Tokyo","reason":"Answers 'Tokyo'."}
+{"key":"kc56a879","correct":true,"extracted_answer":"eight","reason":"'A spider has eight legs.'"}
+{"key":"kea414f4","correct":false,"extracted_answer":"none","reason":"Talks about chlorophyll and energy, never says vitamin D."}
+{"key":"keab4d35","correct":false,"extracted_answer":"Go","reason":"Answers 'Go.' not 'went'."}
+{"key":"k16e8493","correct":true,"extracted_answer":"seven","reason":"Concludes each pair adds up to seven."}
+{"key":"kbd5ed68","correct":false,"extracted_answer":"six holes","reason":"Says 'six holes total', not 18."}
+{"key":"kca06870","correct":false,"extracted_answer":"A.A. Ramsey","reason":"Wrong author."}
+{"key":"keec95cd","correct":false,"extracted_answer":"Alan Shepard","reason":"Wrong person."}
+{"key":"k759a1ca","correct":false,"extracted_answer":"Lake Michigan","reason":"Names Lake Michigan, not Superior."}
+{"key":"k0dfc4e2","correct":true,"extracted_answer":"The yolk","reason":"Starts with 'The yolk'."}
+{"key":"kf34e919","correct":false,"extracted_answer":"none","reason":"Never commits to 'mice' as the plural; rambles."}
+{"key":"k1dc5b7f","correct":false,"extracted_answer":"rhyming","reason":"Says 'rhyming', not onomatopoeia."}
+{"key":"k96a63ec","correct":true,"extracted_answer":"$7.50","reason":"Working arrives at $7.50."}
+{"key":"k6264cf3","correct":false,"extracted_answer":"none","reason":"Describes atomic number 79 but never gives 'Au'."}
+{"key":"k740bfa9","correct":true,"extracted_answer":"six","reason":"'One million has six zeros'."}
+{"key":"k400da41","correct":true,"extracted_answer":"Ural Mountains","reason":"Names the Ural Mountains."}
+{"key":"k6e4d390","correct":true,"extracted_answer":"chickpea paste (chickpeas)","reason":"Lists chickpea paste first and says chickpeas form the paste."}
+{"key":"k2a95a9d","correct":false,"extracted_answer":"The Rhine","reason":"Wrong river, not the Volga."}
+{"key":"k8d4ab87","correct":true,"extracted_answer":"56","reason":"'fifty-six' and 7 x 8 = 56."}
+{"key":"k065183e","correct":true,"extracted_answer":"seize the day","reason":"Says 'seize the day'."}
+{"key":"kc576ce9","correct":false,"extracted_answer":"about 206 to 214; average 207","reason":"Gives a range with average 207, not a committed 206."}
+{"key":"k18cec3b","correct":false,"extracted_answer":"Andromeda","reason":"Says the Sun belongs to Andromeda."}
+{"key":"k3e65dc5","correct":true,"extracted_answer":"The Inca","reason":"'The Inca.'"}
+{"key":"k1f79158","correct":true,"extracted_answer":"green","reason":"'a shade of green'."}
+{"key":"k979fc15","correct":true,"extracted_answer":"1945","reason":"Says the Allies won in 1945."}
+{"key":"k0475794","correct":true,"extracted_answer":"Lake Superior","reason":"Names Lake Superior."}
+{"key":"k6045d9b","correct":false,"extracted_answer":"The aorta","reason":"Names the aorta, not arteries."}
+{"key":"k65a0723","correct":true,"extracted_answer":"Sputnik I","reason":"Sputnik I."}
+{"key":"kcde9060","correct":true,"extracted_answer":"5/8","reason":"Working gives 5/8, also says five-eighths."}
+{"key":"kaa1c5a4","correct":true,"extracted_answer":"seize the day","reason":"'means seize the day'."}
+{"key":"k82c2317","correct":true,"extracted_answer":"The British (Britain)","reason":"'The British' matches Britain."}
+{"key":"k0837f00","correct":true,"extracted_answer":"The femur","reason":"'The femur'."}
+{"key":"k117de27","correct":true,"extracted_answer":"1945","reason":"September 2, 1945."}
+{"key":"k4f08822","correct":false,"extracted_answer":"none","reason":"Rambles about nectar and seeds, never names honey as the food."}
+{"key":"k9a7317d","correct":true,"extracted_answer":"carbon dioxide","reason":"'Plants absorb carbon dioxide'."}
+{"key":"k7f72c8c","correct":true,"extracted_answer":"Venus","reason":"'Venus.'"}
+{"key":"k4b92dd3","correct":false,"extracted_answer":"The humerus","reason":"Commits to the humerus."}
+{"key":"k85e9079","correct":false,"extracted_answer":"270 to 315","reason":"Gives 270 to 315, not 206."}
+{"key":"kde5904b","correct":true,"extracted_answer":"The Milky Way","reason":"'orbits the Milky Way'."}
+{"key":"k35c1bd4","correct":true,"extracted_answer":"56","reason":"'56'."}
+{"key":"k309b71b","correct":true,"extracted_answer":"52","reason":"'52 cards'."}
+{"key":"kbdca12d","correct":true,"extracted_answer":"nine","reason":"'is nine'."}
+{"key":"k363cd86","correct":false,"extracted_answer":"Giacomo Puccini","reason":"Wrong composer."}
+{"key":"k0961455","correct":false,"extracted_answer":"Vosges Glacier Falls","reason":"Wrong, not Angel Falls."}
+{"key":"kd7706e7","correct":false,"extracted_answer":"Mayonnaise","reason":"Wrong ingredient."}
+{"key":"kf324bdf","correct":true,"extracted_answer":"The blue whale","reason":"'The blue whale.'"}
+{"key":"kc672ecf","correct":true,"extracted_answer":"46","reason":"'diploid number of 46'."}
+{"key":"kb527696","correct":false,"extracted_answer":"none","reason":"Never says 'already seen'; rambles with invented etymology."}
+{"key":"ke3b2ec0","correct":true,"extracted_answer":"3600","reason":"'3600'."}
+{"key":"k0d3fca2","correct":false,"extracted_answer":"nine holes","reason":"Says nine, not 18."}
+{"key":"k6551e17","correct":true,"extracted_answer":"The Seine","reason":"'The River Seine'."}
+{"key":"k9f1ade7","correct":true,"extracted_answer":"Alexander Fleming","reason":"Says it is widely credited to Alexander Fleming."}
+{"key":"k2df8a24","correct":true,"extracted_answer":"France","reason":"'donated by France'."}
+{"key":"ke82657f","correct":false,"extracted_answer":"Theodore Roosevelt","reason":"Wrong president."}
+{"key":"k71e9dca","correct":true,"extracted_answer":"Tokyo","reason":"'Tokyo.'"}
+{"key":"k2cc344e","correct":true,"extracted_answer":"52","reason":"'52.'"}
+{"key":"k70623f3","correct":true,"extracted_answer":"The skin","reason":"'The skin.'"}
+{"key":"kc726519","correct":true,"extracted_answer":"Alexander Fleming","reason":"'Alexander Fleming.'"}
+{"key":"k72091d6","correct":true,"extracted_answer":"1989","reason":"'It fell in 1989.'"}
+{"key":"kbada492","correct":false,"extracted_answer":"Olive oil","reason":"Says olive oil, not basil."}
