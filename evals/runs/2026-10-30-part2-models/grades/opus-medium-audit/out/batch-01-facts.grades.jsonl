@@ -1,0 +1,15 @@
+{"key": "ka45bcfa", "correct": false, "extracted_answer": "none", "reason": "It says \"No single answer\" and weighs the humerus against the femur without committing to either."}
+{"key": "k236ee59", "correct": false, "extracted_answer": "El Capitan in Yosemite", "reason": "Its main answer is \"El Capitan in Yosemite\"; Angel Falls appears only as a later aside."}
+{"key": "k3ba33e3", "correct": false, "extracted_answer": "none", "reason": "It opens with \"No single answer can be right\" and muddles skin, water, lungs and other organs without committing."}
+{"key": "k963543b", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "It answers \"Qin Shi Huang,\" the expected answer."}
+{"key": "k653a5d8", "correct": true, "extracted_answer": "leukocytes", "reason": "\"Blood leukocytes\" matches the accepted form leukocytes."}
+{"key": "k06092cf", "correct": false, "extracted_answer": "none", "reason": "It never states that the plural is \"mice\"; it only describes rodents and uses the word in examples."}
+{"key": "k1596e16", "correct": false, "extracted_answer": "elephants", "reason": "It commits to \"elephants\" and mentions blue whales only in a later list."}
+{"key": "k6957dea", "correct": false, "extracted_answer": "two hundred and eight / 1024", "reason": "It first says \"two hundred and eight\" and then works out 1024, giving conflicting answers."}
+{"key": "k3e2ce4b", "correct": false, "extracted_answer": "80 days", "reason": "It answers \"80 days\" and then \"about 95 days\", never committing to 8."}
+{"key": "kf09e73e", "correct": false, "extracted_answer": "none", "reason": "It defines bicycle and bilingual but never says what the prefix bi- means."}
+{"key": "k1975233", "correct": true, "extracted_answer": "Ohm", "reason": "It answers \"Ohm,\" the expected unit."}
+{"key": "k7700349", "correct": false, "extracted_answer": "none", "reason": "Its answer says a hole is \"the smallest unit used to measure distance\"; 18 appears only in later self-assessment text alongside \"six rounds\"."}
+{"key": "k4aee379", "correct": false, "extracted_answer": "William Shatner", "reason": "It names \"William Shatner,\" not Chinua Achebe."}
+{"key": "k21bbd4d", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "It names \"Robert Falcon Scott,\" not Roald Amundsen."}
+{"key": "k658f4b5", "correct": true, "extracted_answer": "Lake Superior", "reason": "It says \"Lake Superior is the largest by volume and surface area.\""}

@@ -302,7 +302,14 @@ narrative, but again, this model struggles with truth and facts.
 
 ### Step 10: Your review and the audit
 
-XXXX
+4
+
+they favored the succinct model. It pushes the user_says_something_wrong row for the succinct model
+lower in the final results.
+
+It makes Sonnet look worse than it really is. Grader models usually do a great job on simple
+answers. using hard answers shows off Sonnet's biggest mistakes and skips all the easy questions it
+got right.
 
 ### Step 11: Whose preferences count
 
